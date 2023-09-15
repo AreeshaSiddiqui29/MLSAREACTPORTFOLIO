@@ -28616,7 +28616,7 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  * Home background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  *
@@ -28624,7 +28624,7 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  * freely use on your site.
  */ var _ideogramJpeg = require("../images/ideogram.jpeg");
 var _ideogramJpegDefault = parcelHelpers.interopDefault(_ideogramJpeg);
-const imageAltText = "CyberGirl";
+const imageAltText = "CyberGirl Avenger";
 const Home = ({ name , title  })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         id: "home",
