@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/Hack.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,19 +24,24 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  `🌐 I'm a dedicated Cybersecurity Enthusiast currently pursuing a Bachelor of Science in Computer Science at the University of Karachi-UBIT.
+
+  🔒 My fascination with the world of cybersecurity goes beyond the classroom, where I explore the ever-evolving landscape of digital security.
+  
+  💡 When I'm not immersed in the world of code and cybersecurity, I enjoy painting and baking.`;
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "CyberSecurity",
+  "Kali Linux",
+  "Python programming",
+  "Artificial Intelligence",
+  "Artist",
+  "Pastry Chef",
+  "Lead and Founder of Cyber Security Club UBIT CyberConnect",
 ];
 
 /**
@@ -45,7 +50,11 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  `I'm a passionate Cybersecurity Enthusiast with a knack for deciphering the intricate dance between data and security. My belief in cybersecurity as both a career and a responsibility drives my constant quest for innovative solutions.
+
+  🤝 I thrive in diverse teams and firmly believe that the best solutions emerge when people with varied backgrounds and experiences collaborate.
+  
+  🚀 When it comes to productivity, I'm all about organization and time management. These skills help me excel in tackling real-world cybersecurity challenges.`;
 
 const About = () => {
   return (
